@@ -121,7 +121,7 @@ También se puede añadir un MCP en VSCode con un mandato en la linea de comando
 
 `code --add-mcp '{"name":"playwright","command":"npx","args":["@playwright/mcp@latest"]}'`
 
-Eejmplo de petición: `Ve a https://zonanegativa.com y dime el título del primer artículo`
+Eejmplo de petición: `Ve a https://zonanegativa.com y dime el título del primer artículo`.
 
 ## MCP para poder trabajar con GitHub
 
