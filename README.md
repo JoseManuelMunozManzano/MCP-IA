@@ -188,6 +188,24 @@ Hay que indicar la ruta completa al archivo `main.ts`.
 
 Con esto, ya podemos acceder al chat de Copilot donde añadimos al contexto el archivo `mcp.json`y podemos preguntarle: `¿Qué tiempo hace en Madrid?`
 
+## Creación de nuestro MCP - 2
+
+He cogido una app backend que tengo hecha en Node.js y he ejecutado en local, y he creado un MCP que se conecta a esta app.
+
+Para ello he creado el archivo `main_2.ts`.
+
+En este archivo he creado dos herramientas:
+- Una para crear un usuario nuevo, que recibe un nombre, email y password.
+- Otra para hacer login, que recibe un email y password.
+
+En VSCode, he añadido el MCP a `.vscode/mcp.json`:
+
+```json
+    "Flutter-Chat": {
+      "command": "npx",
+      "args": ["-y", "tsx", "/home/jmunoz/Programacion/LLM/MCP/YouTube-MCP para principiantes/01-start/main_2.ts"]
+    }
+```
 
 ## MCP Inspector
 
