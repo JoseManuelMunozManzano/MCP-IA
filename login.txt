@@ -1,3 +1,3 @@
 JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2ODdiYjM5YTJkYjVjNGVlNzgxYjZjZmUiLCJpYXQiOjE3NTI5MzczNzQsImV4cCI6MTc1MzAyMzc3NH0.BcdSX3QbPcD6jnFCGvyI5ZvAlvEaC4whL17kZkRMXyA
-Nombre: Adriana Guarín
+Nombre: Adriana
 Email: Adriana@yahoo.es
